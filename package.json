@@ -1,0 +1,24 @@
+{
+  "name": "blender-mathjax",
+  "version": "1.0.0",
+  "description": "Author: Mark Ge",
+  "main": "MathJax2SVG.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marksgy/Blender-MathJax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marksgy/Blender-MathJax/issues"
+  },
+  "homepage": "https://github.com/marksgy/Blender-MathJax#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "mathjax": "^3.2.0",
+    "yargs": "^17.4.0"
+  }
+}
